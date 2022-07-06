@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fake sensor</string>
+    <string name="connectionError">Connection Error!</string>
+    <string name="authenticationError">Authentication Error</string>
+    <string name="writeDocumentError">Write Error</string>
+    <string name="connectingMessage">Connecting...</string>
+    <string name="updateOK">Success</string>
+</resources>
